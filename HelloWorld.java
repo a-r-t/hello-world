@@ -3,5 +3,7 @@ public class HelloWorld {
         System.out.println("Hello World!!");
         System.out.println("Welcome to GitHub ClASS!!!!!!!!!!!!");
         System.out.println("Hello Khang!!");
+
+        System.out.println("Testing, Testing, 1,2");
     }
 }
