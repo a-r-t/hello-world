@@ -3,6 +3,15 @@ public class HelloWorld {
         System.out.println("Hello World!!");
         System.out.println("Welcome to GitHub ClASS!!!!!!!!!!!!");
         System.out.println("Hello Khang!!");
+        System.out.println("Hello Mario!!");
+        System.out.println("Hello Jordan!!");
+        System.out.println("Hello Emmett!!");
+        System.out.println("Hello Thomas!!");
+        System.out.println("Hello Nathan!!");
+        System.out.println("Hello Amanda!!");
+        System.out.println("Hello Kenneth!!");
+        System.out.println("Hello Joe!!");
+        System.out.println("Hello Ryan!!");
 
         System.out.println("Testing, Testing, 1,2");
     }
