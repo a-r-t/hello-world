@@ -2,7 +2,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("HELLO WORLD!!");
         System.out.println("Welcome to GitHub ClASS!!!!!!!!!!!!");
-        System.out.println("Goodbye Khang!!");
+        System.out.println("Kang can leave class early and gets a 100!!");
         System.out.println("Hello Mario!!");
         System.out.println("Hello Jordan!!");
         System.out.println("Hello Emmett!!");
