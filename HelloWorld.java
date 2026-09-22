@@ -15,6 +15,8 @@ public class HelloWorld {
         System.out.println("Hello Jared!!");
         System.out.println("Hello Derek!!");
         System.out.println("Hello Emmy!!");
+        System.out.println("Hello Hernest!!");
+        System.out.println("Hello Jack!!");
         System.out.println("Testing, Testing, 1,2");
         System.out.println("Testing, Testing, 3,4");
         System.out.println("Test Complete");
